@@ -19,8 +19,8 @@ Prețul cryptomonedelor este exprimat în USD, însă fiind monede virtuale aces
 Aplicația își propune să convertească în timp real numărul de Bitcoin pe care dorești să îl achiziționezi, în orice monedă tradițională.
 
 ## Interfată utilizator
-![picture](/cloudcomputing/conv1.PNG)
-![picture](/cloudcomputing/conv2.PNG)
+<img width="838" alt="conv1" src="https://user-images.githubusercontent.com/83670295/117683449-bf840380-b1bc-11eb-802a-91dda86cf409.PNG">
+
 
 ## Tehnologii
 * Node.js
