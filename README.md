@@ -21,6 +21,7 @@ Aplicația își propune să convertească în timp real numărul de Bitcoin pe 
 ## Interfața utilizator
 
 Introducere parametrii
+
 <img width="838" alt="conv1" src="https://user-images.githubusercontent.com/83670295/117683449-bf840380-b1bc-11eb-802a-91dda86cf409.PNG">
 
 Obținere rezultat
